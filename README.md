@@ -24,6 +24,10 @@ Customers currently on release 6.1.1c or above are not vulnerable to this issue 
 
 
 ### Additional Information:
+Software downloads are available here: http://downloads.cohesity.com
+If you have any questions, please reach out to Cohesity Support.
+
+email: support@cohesity.com
 
 #### Vulnerability Type
 Missing SSL Certificate Validation
@@ -52,7 +56,4 @@ True
 #### Discoverer
 Cohesity acknowledges the efforts of Karlsruhe Institute of Technology researcher Thorsten Tuellmann who identified the vulnerability and participated in its responsible disclosure.
 
-Software downloads are available here: http://downloads.cohesity.com
-If you have any questions, please reach out to Cohesity Support.
 
-email: support@cohesity.com
